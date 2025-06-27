@@ -48,12 +48,16 @@ ProyectoIMC/
 ```bash
 pip install pillow psutil
 ```
-Cómo ejecutar
+## Cómo ejecutar:
+
 Desde tu terminal, ubícate en la carpeta del proyecto y ejecuta:
+
 python imcGUI.py
 
 
-Autores
+## Autores:
+
 Adalberto Emmanuel Rojas Perea
+
 Francisco Aldrete
 
