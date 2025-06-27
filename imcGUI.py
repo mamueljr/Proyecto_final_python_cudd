@@ -1,3 +1,24 @@
+
+'''
+Integrantes:
+Adalberto Emmanuel Rojas Perea
+Francisco Aldrete
+
+Codigo de la interfaz gráfica para la calculadora de IMC.
+Este código crea una interfaz gráfica utilizando tkinter para calcular el Índice de Masa Corporal (IMC).
+Permite ingresar el nombre, edad, estatura y peso del usuario, calcular el IMC y mostrar el resultado.
+
+# Además, guarda los datos en una base de datos y permite ver un catálogo de registros.
+# Requiere las librerías tkinter, PIL (Pillow), psutil e imcDB.
+# Requiere también el módulo imc.py que contiene la lógica del cálculo del IMC.
+# Requiere el módulo imcDB.py para la gestión de la base de datos.
+# Requiere el módulo catalogoIMC.py para mostrar un catálogo de registros.
+# Requiere una imagen llamada "imc.jpg" en la carpeta "resources" para mostrar en la interfaz.
+# Requiere Python 3.6 o superior.
+
+'''
+
+
 import subprocess
 import os
 import tkinter as tk
